@@ -5,3 +5,4 @@ Creating a new branch is quick AND simple.
 Add merge.
 test bug.
 add branch.
+add coding:utf-8.
